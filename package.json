@@ -1,0 +1,12 @@
+{
+  "name": "font-awesome-snippet",
+  "version": "0.0.0",
+  "description": "Font Awesome snippet for atom.",
+  "keywords": [],
+  "repository": "https://github.com/tbpgr/font-awesome-snippet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

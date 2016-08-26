@@ -11,13 +11,17 @@ Font Awesome snippet for atom with double quoted markup.
 * Done!
 
 Or, alteratively:
+
 [![apm install font-awesome-snippet](https://apm-badges.herokuapp.com/apm/font-awesome-snippet.svg)](https://atom.io/packages/font-awesome-snippet)
 
 ## Usage
 
 Simply type a font awesome icon name and hit tab to generate full markup, e.g. typing:
+
 	fa-envelope
+	
 Then pressing tab generates:
+
 	<i class="fa fa-envelope"></i>
 
 ## Snippet Update Script

@@ -1,4 +1,4 @@
-# font-awesome-snippet-dobule-quotes
+# font-awesome-snippet-double-quotes
 
 Font Awesome snippet for atom with double quoted markup.
 

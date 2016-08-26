@@ -7,12 +7,12 @@ Font Awesome snippet for atom with double quoted markup.
 
 * In Atom, open *Settings* (*Preferences* on Mac)
 * Go to *Install* section
-* Search for `disable-mru-tabbing` package. Once found, click `Install` button.
+* Search for `font-awesome-snippet-double-quotes` package. Once found, click `Install` button.
 * Done!
 
 Or, alteratively:
 
-[![apm install font-awesome-snippet](https://apm-badges.herokuapp.com/apm/font-awesome-snippet.svg)](https://atom.io/packages/font-awesome-snippet)
+[![apm install font-awesome-snippet-double-quotes](https://apm-badges.herokuapp.com/apm/font-awesome-snippet-double-quotes.svg)](https://atom.io/packages/font-awesome-snippet-double-quotes)
 
 ## Usage
 

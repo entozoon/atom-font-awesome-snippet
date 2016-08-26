@@ -75,17 +75,17 @@ module FontAwesome
 
       def apply_snippet
         header =<<-EOS
-".text.html, .source.gfm":
+".text.html, .source.gfm, .text.php":
 \t"Font Awesome Includes":
 \t\t"prefix":"font-awesome-import"
-\t\t"body":"<link href='//maxcdn.bootstrapcdn.com/font-awesome/#{@version}/css/font-awesome.min.css' rel='stylesheet'>"
+\t\t"body":'<link href="//maxcdn.bootstrapcdn.com/font-awesome/#{@version}/css/font-awesome.min.css" rel="stylesheet">'
         EOS
 
         body = @klasses.map{|klass|
           <<-EOS
 \t"#{klass}":
 \t\t"prefix":"#{klass}"
-\t\t"body":"<i class='fa #{klass}'></i>"
+\t\t"body":'<i class="fa #{klass}"></i>'
           EOS
         }.join
         header + body

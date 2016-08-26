@@ -1,12 +1,12 @@
 {
-  "name": "font-awesome-snippet",
+  "name": "font-awesome-snippet-double-quotes",
   "version": "0.0.1",
-  "description": "Font Awesome snippet for atom.",
+  "description": "Font Awesome snippet for atom with double quoted markup.",
   "keywords": [],
-  "repository": "https://github.com/tbpgr/font-awesome-snippet",
+  "repository": "https://github.com/entozoon/atom-font-awesome-snippet-double-quotes",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": "*"
   },
   "dependencies": {}
 }
